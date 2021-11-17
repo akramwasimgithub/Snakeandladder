@@ -1,0 +1,14 @@
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\bin\Debug\netcoreapp3.1\SnakeLadder.exe
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\bin\Debug\netcoreapp3.1\SnakeLadder.deps.json
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\bin\Debug\netcoreapp3.1\SnakeLadder.runtimeconfig.json
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\bin\Debug\netcoreapp3.1\SnakeLadder.runtimeconfig.dev.json
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\bin\Debug\netcoreapp3.1\SnakeLadder.dll
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\bin\Debug\netcoreapp3.1\SnakeLadder.pdb
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\obj\Debug\netcoreapp3.1\SnakeLadder.csproj.AssemblyReference.cache
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\obj\Debug\netcoreapp3.1\SnakeLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\obj\Debug\netcoreapp3.1\SnakeLadder.AssemblyInfoInputs.cache
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\obj\Debug\netcoreapp3.1\SnakeLadder.AssemblyInfo.cs
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\obj\Debug\netcoreapp3.1\SnakeLadder.csproj.CoreCompileInputs.cache
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\obj\Debug\netcoreapp3.1\SnakeLadder.dll
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\obj\Debug\netcoreapp3.1\SnakeLadder.pdb
+C:\Users\63not\source\repos\SnakeLadder\SnakeLadder\obj\Debug\netcoreapp3.1\SnakeLadder.genruntimeconfig.cache
